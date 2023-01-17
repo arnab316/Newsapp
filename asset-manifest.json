@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arnab316/static/css/main.e6c13ad2.css",
+    "main.js": "/arnab316/static/js/main.48e70cff.js",
+    "static/js/787.32d91862.chunk.js": "/arnab316/static/js/787.32d91862.chunk.js",
+    "index.html": "/arnab316/index.html",
+    "main.e6c13ad2.css.map": "/arnab316/static/css/main.e6c13ad2.css.map",
+    "main.48e70cff.js.map": "/arnab316/static/js/main.48e70cff.js.map",
+    "787.32d91862.chunk.js.map": "/arnab316/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48e70cff.js"
+  ]
+}
